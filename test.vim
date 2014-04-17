@@ -2,4 +2,7 @@ This is a document to test pushing and pulling to my newly created GitHub accoun
 
 So let's see how this works, shall we?
 
-First, we will commit these changes.
+Fi
+rst, we will commit these changes.
+
+Now we are making more changes.
